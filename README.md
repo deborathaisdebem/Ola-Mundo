@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositório do curdo Git e GitHub do Curso em Vídeo
+# Olá, Mundo!
+ Primeiro repositório do curso Git e GitHub do Curso em Vídeo.
+
+ Repositório criado durante uma aula ao vivo e lecionada pelo professor Gustavo Guanabara.
